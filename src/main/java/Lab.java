@@ -22,7 +22,7 @@ public class Lab {
      */
     public Deque<String> createNewStack(){
         Deque<String> myDeque = new ArrayDeque<String>();
-        return myDeque;
+        return myDeque; //comment to commit
     }
 
     /**
